@@ -7,31 +7,33 @@
 
 
 ## Overview
-This repository documents my procedures for developing my ePortfolio as the CS499 Computer Science Capstone course final project. Creating a professional portfolio that showcases my unique abilities and talents is one of the best visual communication tools to demonstrate our value to potential employers. The content of the ePortfolio is a solid starting point to clear ideas that showcase my skills across the key fields of Computer Science. The included artifacts of some of the courses in the Computer Science Program represent my growth in the key categories of software design/engineering, algorithms and data structures, and databases.
+This repository documents my process for developing my ePortfolio as part of the CS499 Computer Science Capstone final project. A professional portfolio is a powerful visual communication tool that highlights my unique skills and talents, effectively demonstrating my value to potential employers.
+The ePortfolio serves as a strong foundation for showcasing my expertise across key areas of Computer Science. It includes artifacts from various courses in the Computer Science program, reflecting my growth in software design/engineering, algorithms and data structures, and databases.
 
 ---
 ---
 
-Some artifacts could demonstrate my skills in one category and illustrate skills across other key categories. As an own program practice, the artifacts chosen have been enhanced and presented beyond the course requirements, establishing a quality of work, addressing their limitations or inconsistencies, and mitigating vulnerabilities. The portfolio conveys the impression that I am strongly motivated, well organized, and accomplished in Computer Science major in Software Engineering.
+Some artifacts highlight proficiency in a single category, while others demonstrate skills across multiple domains. As part of my professional development, I have refined and enhanced these artifacts beyond course requirements—improving their quality, addressing limitations, and mitigating vulnerabilities.
+This portfolio not only showcases my technical abilities but also reflects my motivation, organization, and accomplishments as a Computer Science major specializing in Software Engineering.
 
 
 ## Self-Reflections
 
 ### Assignment One: Self-Introduction
 
-This paper is an informative self-introduction related to the computer science courses concepts applicable to my personal experiences. It is about sharing personal opinions and viewpoints and engaging with course concepts and materials deeper, more reflective.
+This paper serves as an informative self-introduction, connecting key computer science concepts from my coursework to my personal experiences. It provides an opportunity to share my perspectives, reflect on course materials, and engage with concepts in a deeper, more meaningful way.
 
 ### Journal: Career Choice
 
-This paper reflects on my career choice and plans for the future due to the Computer Science program. It recalls why I have remained more consistent in my career plans and how my thinking about my career has evolved. I comment on some research about my career choices and how this has impacted my thinking.
+This paper explores my career choices and future plans as shaped by the Computer Science program. It reflects on why I have remained committed to my career path, how my thinking has evolved, and the impact of research on my decision-making process.
 
 ### Journal: Capstone Reflection
 
-This paper is a course submission reflection of my journey through the CS499 Computer Science Capstone course assignments. I discuss how I reached the five-course outcomes by enhancing the included artifacts in my ePortfolio, and the accomplishment of creating a professional ePortfolio that showcases my knowledge, skills, and abilities from the Computer Science program.
+This paper is a reflective submission for the CS499 Computer Science Capstone course, documenting my journey through the assignments. I discuss how I achieved the five-course outcomes by enhancing the artifacts in my ePortfolio and successfully creating a professional portfolio that demonstrates my knowledge, skills, and abilities.
 
 ### ePortfolio Selection and Software Design Document
 
-This paper is an initial plan describing how I meet the ePortfolio requirements. While the plan submitted was not final, it is a solid starting point with clear ideas for review. This assignment may be seen as a way of beginning a conversation that results in a challenging but practical plan to produce an ePortfolio that showcases my skills across the key fields of computer science:
+This paper outlines my initial plan for meeting the ePortfolio requirements. While not the final version, it serves as a strong foundation with well-defined ideas for further refinement. This assignment represents the beginning of a structured process aimed at developing a compelling ePortfolio that showcases my skills across key areas of computer science:
 
 Software engineering and design,
 Algorithms and data structure,
@@ -39,20 +41,22 @@ Databases
 
 ## Code Review
 
-I perform a code review in a video for each artifact selected in my initial plan. In this code review, I analyze existing code for weaknesses, limitations, and vulnerabilities and explain my plan for enhancements. These code reviews are a walk-through of existing code and planned enhancements, and it demonstrates the following critical elements for each category:
+For each artifact selected in my initial plan, I conduct a detailed code review in a video format. In these reviews, I analyze existing code to identify weaknesses, limitations, and vulnerabilities, while outlining my planned enhancements. Each code review provides a structured walk-through of the existing implementation and planned improvements, demonstrating the following key elements:
 
-Existing functionality: A detailed walk-through of the existing code focused on the features and function of the current code.
-Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
-Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
+Existing Functionality – A comprehensive walk-through of the current code, focusing on its features and functionality.
+Code Analysis – Identification of areas for improvement, including structure, logic, efficiency, functionality, security, testing, commenting, and documentation.
+Enhancements – A discussion of planned improvements that address the issues identified during code analysis.
 
 ### Software Design and Engineering Enhancement
 
-This paper is a narrative that accompanies the artifact enhancements for software design and engineering. It explains why the selected artifact was included in this category of our ePortfolio and reflects on the process used to create the artifact. The narrative focuses on the learning that happened through the artifact's creation. The artifact demonstrates our ability to use innovative skills and techniques for implementing design solutions and accomplishing goals. The ability to program solutions to solve software logic problems and address potential design flaws related to security.
+This paper provides a narrative accompanying the artifact enhancements in the area of software design and engineering. It explains why the selected artifact was included in this category of the ePortfolio and reflects on the process of its development. The narrative highlights key learning experiences gained through the artifact’s creation.
+The artifact showcases my ability to apply innovative design techniques and implement solutions effectively. It demonstrates proficiency in programming solutions that address software logic challenges, resolve potential design flaws, and enhance security.
 
 ### Algorithms and Data Structure Enhancement
 
-This paper is a narrative that accompanies the artifact enhancements for algorithms and data structure. It explains why the selected artifact was included in this category of our ePortfolio and reflects on the process used to create the artifact. The narrative focuses on the learning that happened through the artifact's creation. The artifact consists of design considerations to authenticate and authorize a user into the monitor system based on user credentials and the accountability of the user interaction with different modules screen and actions according to their role in the monitor system.
+This paper presents a narrative detailing the enhancements made to an artifact in the algorithms and data structures category. It explains the rationale for selecting this artifact and provides insights into the development process. The focus is on the learning gained during its creation and refinement.
+The artifact itself involves the design and implementation of authentication and authorization mechanisms within a monitoring system. It ensures secure user access based on credentials and manages role-based interactions across different modules and functionalities.
 
 ### Databases Enhancement
-
-This paper is a narrative that accompanies the artifact enhancements for databases. It explains why the selected artifact was included in this category of our ePortfolio and reflects on the process used to create the artifact. The narrative focuses on the learning that happened through the artifact's creation. The artifact involved a multi-tier application with a Model View Controller (MVC) and RESTful protocol design to extend the HTTP protocol to provide an application programming interface (API). The most attractive concept of the MVC pattern is a separation of concerns.
+This paper provides a narrative describing the enhancements made to an artifact in the databases category. It explains why the artifact was selected and reflects on the development process, emphasizing key takeaways.
+The artifact features a multi-tier application leveraging the Model-View-Controller (MVC) pattern and a RESTful API. A key focus of this enhancement is the separation of concerns, which improves system maintainability and scalability. By refining the database structure and API interactions, the artifact enhances data integrity, security, and performance.
