@@ -19,9 +19,6 @@ This portfolio not only showcases my technical abilities but also reflects my mo
 
 ## Self-Reflections
 
-### Assignment One: Self-Introduction
-
-This paper serves as an informative self-introduction, connecting key computer science concepts from my coursework to my personal experiences. It provides an opportunity to share my perspectives, reflect on course materials, and engage with concepts in a deeper, more meaningful way.
 
 ### Journal: Career Choice
 
